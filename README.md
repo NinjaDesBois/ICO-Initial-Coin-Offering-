@@ -1,3 +1,7 @@
+![icodapp](https://user-images.githubusercontent.com/77759462/163695918-0fa7cbdc-0f5b-4584-9dad-b4e64c3b29ae.png)
+
+Link to the test website :https://ico-initial-coin-offering-sigma.vercel.app/
+
 # ICO-Initial-Coin-Offering-
 This repo is about a basic webpage for an ICO to mint tokens or claim if you hold CryptoDevs NFT (See my repo "CryptoDevs-NFT-Collection")  made with Hardhat-Solidity and Next.js for my "LearnWeb3 Journey" Thanks again to Learnweb3.io
 ## Requirements
